@@ -1,38 +1,79 @@
 .App {
   text-align: center;
+  font-family: Arial, sans-serif;
+  font-size:20px;
+  color:white;
+  overflow-wrap: anywhere;
+  text-decoration: none;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.header {
+  padding: 20px;
+  background-color: #007bff;
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.property-list {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.property-image {
+  width: 100%;
+  max-width: 350px;
+  text-align: center;
+  background-color: #f9f9f9;
+  padding: 20px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.property-image img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.contact-info {
+  margin-top: 20px;
+}
+
+.properties {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.property-card {
+  border: 1px solid #ccc;
+  margin: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+
+.property-card img {
+  max-width: 80%;
+  height: 150px;
+  object-fit: cover;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.property-card h2 {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+
+.property-card p {
+  font-size: 1rem;
+  margin-top: 5px;
+}
+
+.property-card p:last-child {
+  font-weight: bold;
 }
