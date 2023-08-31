@@ -11,10 +11,10 @@ function InformationPage() {
       <img src="https://static.wixstatic.com/media/55f97a_b19fc9cca07c4942ae5807cd084f27a4~mv2.png/v1/crop/x_0,y_3,w_375,h_537/fill/w_180,h_258,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/matt_webp.png" alt=""  />
       <h2>Matt Ameiss</h2>
       <p>Real Estate Advisor</p>
-     <Link><p>MattAmeissrealty@gmail.com</p></Link>
+     <p>MattAmeissrealty@gmail.com</p>
       <p>(636) 443-5135</p>
       <p>Ryse Realty Group</p>
-     <Link><p>www.ryserealtystl.com</p></Link>
+     <p>www.ryserealtystl.com</p>
       </div>
       <div className="property-description px-4">
         <p>
