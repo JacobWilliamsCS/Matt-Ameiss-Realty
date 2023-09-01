@@ -4,7 +4,7 @@ const properties = [
       title: "Historical Home In The City",
       description: "A classic St. Charles home built in the 19th century.",
       price: "$350,000",
-      image: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/294974578_545379873852098_3952049410777831979_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=NXtYSCoCVCwAX8ewyXz&_nc_ht=scontent-ord5-2.xx&oh=00_AfCLP183-Xjl_WRqtF4zIUc9SS8vKGTS-6QEqIWbG_T_-w&oe=64EB19CB",
+      image: "oldhouse.jpg",
       link: "https://ryserealtystl.com",
     },
     {
