@@ -1,5 +1,4 @@
 import React from 'react';
-//import { BrowserRouter as  Link} from 'react-router-dom';
 import './InformationPage.css'
 
 
@@ -14,8 +13,10 @@ function InformationPage() {
      <p>MattAmeissrealty@gmail.com</p>
       <p>(636) 443-5135</p>
       <p>Ryse Realty Group</p>
-     <p>www.ryserealtystl.com</p>
-      </div>
+      <p>"www.ryserealtystl.com"</p>
+   
+
+   
       <div className="property-description white px-4">
         <p>
         Navigating through your most significant transactions becomes an effortless journey with the guidance of our esteemed advisor, Matt. His innate kindness, unwavering patience, and genuine enthusiasm are all dedicated to ensuring that his clients not only experience a stress-free process but also attain a crystal-clear comprehension of every facet within the realms of buying, selling, or even building.

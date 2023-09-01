@@ -35,6 +35,10 @@
     align-items: center;
     height: 100%;
     font-size: 20px;
+    background-image: url('./neighborhoodz.jpg'); /* Update the path if needed */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
   }
   
   .property-image {
@@ -45,4 +49,11 @@
   .property-description {
     flex: 1; /* Expand to fill available space */
     font-size: 21px;
+  }
+
+  .white{
+    color: rgb(255, 255, 255);
+    font-size:20px;
+     /* Set the text to absolute positioning within the container */
+    bottom: 0; /* Position the text at the bottom of the container */
   }

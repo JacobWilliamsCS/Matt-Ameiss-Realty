@@ -52,3 +52,7 @@
   .right {
     margin-right: auto;
   }
+
+  .left {
+    margin-right: center;
+  }
