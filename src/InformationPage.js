@@ -13,7 +13,8 @@ function InformationPage() {
      <p>MattAmeissrealty@gmail.com</p>
       <p>(636) 443-5135</p>
       <p>Ryse Realty Group</p>
-      <p>"www.ryserealtystl.com"</p>
+      {/* <p>www.ryserealtystl.com</p> */}
+      <a href="https://ryserealtystl.com">ryserealtystl.com</a>
    </div>
 
    
