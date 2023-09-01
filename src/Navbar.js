@@ -21,7 +21,7 @@ function Navbar() {
                                     </Link>
                                     
                                                 {/*onClick={() => setMenu(false)}  */} 
-                                         <Link            to="/properties" className="tab-button"><h2> Listings</h2></Link>
+                                         <Link            to="/properties" className="tab-button"><h2>Sold Houses</h2></Link>
                                         {/* Add more tab buttons here if needed */}
 
                                         {/* Hamburger button */}
