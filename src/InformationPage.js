@@ -14,7 +14,7 @@ function InformationPage() {
       <p>(636) 443-5135</p>
       <p>Ryse Realty Group</p>
       <p>"www.ryserealtystl.com"</p>
-   
+   </div>
 
    
       <div className="property-description white px-4">
@@ -27,7 +27,6 @@ function InformationPage() {
         <p>     - Satisfied Client</p>
 
       </div>
-    </div>
     </div>
   );
 
