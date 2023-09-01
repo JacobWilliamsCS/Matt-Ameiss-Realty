@@ -28,6 +28,7 @@ function InformationPage() {
 
       </div>
     </div>
+    </div>
   );
 
 }
