@@ -16,12 +16,15 @@ function InformationPage() {
       <p>Ryse Realty Group</p>
      <p>www.ryserealtystl.com</p>
       </div>
-      <div className="property-description px-4">
+      <div className="property-description white px-4">
         <p>
         Navigating through your most significant transactions becomes an effortless journey with the guidance of our esteemed advisor, Matt. His innate kindness, unwavering patience, and genuine enthusiasm are all dedicated to ensuring that his clients not only experience a stress-free process but also attain a crystal-clear comprehension of every facet within the realms of buying, selling, or even building.
 
         If you're seeking an advisor who embodies the art of listening and places your aspirations above all else, reaching out to Matt is a step towards a partnership that transcends the ordinary. Don't hesitate to connect with Matt today and embark on a real estate journey that's both exceptional and deeply personalized.
         </p>
+        
+        <p>     - Satisfied Client</p>
+
       </div>
     </div>
   );
