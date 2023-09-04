@@ -10,14 +10,18 @@ function InformationPage() {
       <img src="https://static.wixstatic.com/media/55f97a_b19fc9cca07c4942ae5807cd084f27a4~mv2.png/v1/crop/x_0,y_3,w_375,h_537/fill/w_180,h_258,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/matt_webp.png" alt=""  />
       <h2>Matt Ameiss</h2>
       <p>Real Estate Advisor</p>
-     <p>MattAmeissrealty@gmail.com</p>
+      <p>MattAmeissrealty@gmail.com</p>
       <p>(636) 443-5135</p>
       <p>Ryse Realty Group</p>
       {/* <p>www.ryserealtystl.com</p> */}
       <a href="https://ryserealtystl.com">ryserealtystl.com</a>
+      <a href="https://www.facebook.com/matt.ameiss" style={{ display: 'block', marginTop: '10px' }}>
+        <img src="facebooklogo.png" alt="Facebook Logo" style={{ width: '60px', height: '60px'}}/>
+        </a>
+    
    </div>
 
-   
+ 
       <div className="property-description white px-4">
         <p>
         Navigating through your most significant transactions becomes an effortless journey with the guidance of our esteemed advisor, Matt. His innate kindness, unwavering patience, and genuine enthusiasm are all dedicated to ensuring that his clients not only experience a stress-free process but also attain a crystal-clear comprehension of every facet within the realms of buying, selling, or even building.
@@ -26,9 +30,11 @@ function InformationPage() {
         </p>
         
         <p>     - Satisfied Client</p>
-
+    
       </div>
+   
     </div>
+
   );
 
 }
