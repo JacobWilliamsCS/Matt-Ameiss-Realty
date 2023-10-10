@@ -46,7 +46,7 @@
   padding: 5px 10px;
   cursor: pointer;
   outline: none;
-  opacity: 0; /* Initially set opacity to 0 */
+  opacity: 10; /* Initially set opacity to 10 */
   transition: opacity 0.3s; /* Add a transition for opacity change */
 }
 
@@ -60,6 +60,6 @@
 
 .arrow-button:hover {
   opacity: 1; /* Increase opacity on hover */
-  background-color: rgba(0, 123, 255, 0.5); /* Add a slight background color on hover */
+  background-color: rgba(255, 255, 255, 0.5); /* Add a slight background color on hover */
 }
 
