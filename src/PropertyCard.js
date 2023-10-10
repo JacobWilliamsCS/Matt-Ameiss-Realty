@@ -30,8 +30,8 @@ const PropertyCard = ({ property }) => {
           &lt;
         </button>
         <img
-          src={property.images[currentImageIndex]}
-          alt={`Image ${currentImageIndex + 1}`}
+        src={property.images[currentImageIndex]} alt=""
+          //alt={`Image ${currentImageIndex + 1}`}
         />
         <button className="arrow-button right" onClick={nextImage}>
           &gt;
