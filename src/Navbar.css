@@ -7,7 +7,7 @@
   
   /* Style the logo */
   .text-xl {
-    font-size: 1.5rem; /* Adjust the size as needed */
+    font-size: 40px; /* Adjust the size as needed */
     font-weight: bold;
     text-decoration: none;
     color: #ffffff; /* Text color */
@@ -24,7 +24,7 @@
     font-weight: bold;
     text-decoration: none;
     color: #ffffff; /* Text color */
-    padding: 0.5rem 1rem;
+ /* padding: 0.5rem 1rem; */
     transition: background-color 0.3s ease, color 0.3s ease;
   }
   
