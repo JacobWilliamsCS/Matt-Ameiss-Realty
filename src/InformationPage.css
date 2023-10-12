@@ -12,7 +12,7 @@
 .description-card {
   background-color: #f0f0f0;
   padding: 20px;
-  margin: 15px; /* Adjust this margin for spacing between cards */
+  margin: 5px; /* Adjust this margin for spacing between cards */
   width: 250px;
   height: 250px;
   justify-content: center;
