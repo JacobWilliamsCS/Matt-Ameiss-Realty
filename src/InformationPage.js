@@ -21,12 +21,12 @@ function InformationPage() {
   return (
     
     <div className="property-list px-4" >
-    <div className="property-image px-4" style={{ width: '700px' }}>
-      <img src="https://static.wixstatic.com/media/55f97a_b19fc9cca07c4942ae5807cd084f27a4~mv2.png/v1/crop/x_0,y_3,w_375,h_537/fill/w_180,h_258,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/matt_webp.png" alt=""  />
+    <div className="property-image px-4" style={{ width: '300px' }}>
+      <img src="matthewameiss.jpg" alt=""  />
       <h2>Matt Ameiss</h2>
       <p>Real Estate Advisor</p>
-      <a href="https://mattameissrealty@gmail.com">MattAmeissRealty@gmail.com</a>
-      <p>+1 (636) 443-5135</p>
+      <a href="gmail.com">MattAmeissRealty@gmail.com</a>
+      <p> (636) 443 5135</p>
       <p>Ryse Realty Group</p>
       <a href="https://ryserealtystl.com">ryserealtystl.com</a>
       <a href="https://www.facebook.com/matt.ameiss" style={{ display: 'block', marginTop: '10px' }}>
