@@ -25,7 +25,7 @@ function InformationPage() {
       <img src="matthewameiss.jpg" alt=""  />
       <h2>Matt Ameiss</h2>
       <p>Real Estate Advisor</p>
-      <a href="mattameissrealty@gmail.com">MattAmeissRealty@gmail.com</a>
+      <a href="https://mail.google.com/mail/u/1/?ogbl#inbox">MattAmeissRealty@gmail.com</a>
       <p> (636) 443 5135</p>
       <p>Ryse Realty Group</p>
       <a href="https://ryserealtystl.com">ryserealtystl.com</a>
