@@ -1,10 +1,16 @@
 const properties = [
   {
     id: 1,
-    title: "Historical Home In The City",
-    description: "A classic St. Charles home built in the 19th century.",
-    price: "$350,000",
-    images: ["oldhouse.jpg",
+    title: "3827 Ridgfield farms dr.",
+    description: "Freedom to create your own park-like setting for you and your family.",
+    price: "$500,000",
+    images: ["a1.jpg",
+              "a2.jpg",
+              "a3.jpg",
+              "a4.jpg",
+              "a5.jpg",
+              "a6.jpg",
+              "a7.jpg",
 
   ],
     link: "4 Beds | 2 Bath | 1675 sq. ft.",
@@ -12,11 +18,15 @@ const properties = [
   {
     id: 2,
     title: "Spacious Family Home",
-    description: "A spacious and cozy family home with a beautiful garden and large backyard.",
+    description: "This home has a great layout and is sure to fit the needs of many different types of buyers!.",
     price: "$549,000",
-    images: ["https://havenlifestyles.s3.us-east-2.amazonaws.com/Four+Must-See+Stylishly+Modern+Wisconsin+Homes.jpg",
-            "bath1.jpg",
-            "mancave.jpg",
+    images: ["b1.jpg",
+              "b2.jpg",
+              "b3.jpg",
+              "b4.jpg",
+              "b5.jpg",
+              "b6.jpg",
+             
 
   ],
     link: "6 Beds | 5 Bath | 2589 sq. ft.",
@@ -27,7 +37,9 @@ const properties = [
       title: "Brick Cottage",
       description: "A brand new 3 bedroom 3 bathroom home with a good sized yard.",
       price: "$569,000",
-      images: ["https://sebernhomes.com/wp-content/uploads/2020/06/Mallard-Exterior-Zoom-Out.jpg",
+      images: ["c.jpg",
+
+
 
   ],
       link: "8 Beds | 6 Bath | 2188 sq. ft.",
@@ -35,11 +47,10 @@ const properties = [
   {
       id: 4,
       title: "Newly Renovated",
-      description: "A newly renovated home right in the center of O'Fallon.",
+      description: "A newly renovated home.",
       price: "$275,000",
-      images: [ "https://ap.rdcpix.com/6f34693be1993ea8a2911e11a400805bl-m598688742od-w480_h360.jpg",
-                "bath1.jpg",
-                "kitchen0.jpg"
+      images: [ "d1.jpg",
+                "d2.jpg",
 
 
   ],
@@ -48,26 +59,60 @@ const properties = [
   {
       id: 5,
       title: "Large Traditional Home",
-      description: "Plenty of wildlife and spacious property.",
-      price: "$405,000",
-      images: ["https://www.mydomaine.com/thmb/CaWdFGvTH4-h1VvG6tukpKuU2lM=/3409x0/filters:no_upscale():strip_icc()/binary-4--583f06853df78c6f6a9e0b7a.jpeg",
-      "bath2.jpg",
+      description: "Adorable 2 bedroom 1 bath",
+      price: "$280,000",
+      images: ["e1.jpg",
+              
 
   ],
-      link: "5 Beds | 3 Bath | 1770 sq. ft.",
+      link: "2 Beds | 1 Bath | 970 sq. ft.",
   },
   {
       id: 6,
       title: "Enormous House and Perfect Landscape",
-      description: "Built in 2021 this house has everything to do from an inground pool to the man cave.",
+      description: "Spacious property with detached garages for extra storage.",
       price: "$915,000",
-      images: ["https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_24/1448814/how-size-doesnt-make-you-happier-today-main-190614.jpg",
-      "mancave2.jpg",
+      images: ["i1.jpg",
+              "i2.jpg",
+              "i3.jpg",
 
 
   ],
-      link: "10 Beds | 7 Bath | 2795 sq. ft.",
-  }
+      link: "6 Beds | 4 Bath | 1977 sq. ft.",
+  },
+  {
+    id: 7,
+    title: "Large Traditional Home",
+    description: "New home in a beautiful neighborhood.",
+    price: "$430,000",
+    images: ["f.jpg",
+            
+
+],
+    link: "4 Beds | 3 Bath | 1124 sq. ft.",
+},
+{
+  id: 8,
+  title: "Silex MO",
+  description: "Traditional two-story house on 2 acres of property.",
+  price: "$405,000",
+  images: ["g.jpg",
+          
+
+],
+  link: "4 Beds | 1.5 Bath | 1250 sq. ft.",
+},
+{
+  id: 9,
+  title: "Warrenton",
+  description: "Cozy 2 bedroom home in Warrenton.",
+  price: "$215,000",
+  images: ["h.jpg",
+          
+
+],
+  link: "2 Beds | 2 Bath | 870 sq. ft.",
+},
 // Add more properties here
 
 
