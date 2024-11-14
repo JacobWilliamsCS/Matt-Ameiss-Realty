@@ -52,6 +52,32 @@ body {
   background-position: center;
 }
 
+.office-section {
+  background-color: #1a1a1a;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 500px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+}
+
+.office-section h2 {
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+.office-section p {
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+
+.map-container {
+  border-radius: 8px;
+  overflow: hidden;
+}
+
 /* Media query for responsive design */
 @media (max-width: 768px) {
   .property-list {

@@ -1,13 +1,19 @@
-import './Footer.css'
+import './Footer.css';
 
 import React from 'react';
 
 const Footer = () => {
   return (
-    <footer>
-      Designed, built, and maintained by Jacob Williams - 
-      <a href="https://jacobmwilliams.me"> jacobmwilliams.me</a>
-    </footer>
+    <>
+
+      {/* Footer Section */}
+      <footer>
+        Designed by Jacob Williams :  
+        <a href=" https://jacobmwilliams.me" target="_blank" rel="noopener noreferrer">
+          jacobmwilliams.me
+        </a>
+      </footer>
+    </>
   );
 };
 

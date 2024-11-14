@@ -1,10 +1,15 @@
 footer {
-    background-color: black;
-    color: white;
-    padding: 11px;
-    text-align: center;
-    position: static;
-    bottom: 0;
-    width: 99%;
-    margin-bottom: 0px;
-  }
+  text-align: center;
+  padding: 5px;
+  background-color: #363636; /* optional background color */
+  color: rgba(0, 0, 0, 0.6); /* Translucent text color */
+}
+
+footer a {
+  color: rgba(0, 123, 255, 0.6); /* Translucent link color */
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: rgba(0, 60, 124, 0.8); /* Less translucent on hover */
+}
